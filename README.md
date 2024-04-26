@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Candice. Nice to meet you. 
+You can usually find me at [ClearlyDefined](https://github.com/clearlydefined/curated-data) reviewing pull requests.
+
+Thanks for stopping by!
 <!--
 Current:
 [ClearlyDefined](https://github.com/clearlydefined)
